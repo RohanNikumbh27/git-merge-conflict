@@ -2,5 +2,7 @@ one on master
 second branch
 second branch 
 thif commited to second brANCH 
+on same line after second branch commit
+third branch stared
 on same line but branch is second
 this is second branch and merging third branch
