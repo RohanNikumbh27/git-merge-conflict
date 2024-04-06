@@ -2,4 +2,4 @@ one on master
 second branch
 second branch 
 thif commited to second brANCH 
-on same line
+on same line after second branch commit
